@@ -9,7 +9,7 @@ Este é o README para o projeto Cordel Moderno, um site dedicado à divulgação
 | :rocket: URL         | https://carloseduardolemos.github.io/projeto-cordel/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]([https://raw.githubusercontent.com/SeuUsuario/projeto-cordel-moderno/main/imagens/captura.png](https://raw.githubusercontent.com/CarlosEduardoLemos/projeto-cordel/main/imagens/Captura%20de%20tela%202023-06-01%20214354.png)#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/projeto-cordel/main/imagens/Captura%20de%20tela%202023-06-01%20214354.png#vitrinedev)
 
 ## Detalhes do projeto
 
