@@ -1,6 +1,6 @@
 # Projeto Cordel Moderno
 
-Este é o README para o projeto Cordel Moderno, um site dedicado à divulgação e apreciação dos cordéis do poeta Milton Duarte.
+O projeto Cordel Moderno, é um site dedicado à divulgação e apreciação dos cordéis do poeta Milton Duarte.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
